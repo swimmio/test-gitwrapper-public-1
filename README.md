@@ -2,6 +2,9 @@
 
 This repo is used to for testing of the gitwrapper with github
 
+* DO NOT CLOSE THE OPEN PR-s `test_br_open1` and `test_br_open2`
+
+
 To create the branches, the following commands used
 
 ```
