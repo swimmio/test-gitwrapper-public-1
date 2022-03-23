@@ -1,1 +1,3 @@
 test_br_merged1
+extra line
+
